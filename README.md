@@ -1,3 +1,8 @@
+# Welcome to GitHub Desktop!
+
+
+
+
 # 🎯 Variáveis principais
 saldo = 0
 limite = 500
